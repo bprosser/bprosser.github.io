@@ -1,0 +1,23 @@
+title: Barnabas Prosser
+description: "Learning C, one segfault at a time."
+url: "https://bprosser.github.io"
+baseurl: ""
+
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "dark"
+
+markdown: kramdown
+plugins:
+  - jekyll-include-cache
+
+author:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/bprosser"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/barnabasprosser/"
+
+atom_feed:
+  hide: true
